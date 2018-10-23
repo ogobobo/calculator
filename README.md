@@ -1,1 +1,1 @@
-This is a clone of the popular iPhone app.
+This is a clone of the popular iPhone app built with vanilla JS.
