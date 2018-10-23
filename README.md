@@ -1,1 +1,1 @@
-# calculator
+This is a clone of the popular iPhone app.
